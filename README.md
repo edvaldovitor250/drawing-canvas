@@ -8,6 +8,7 @@
       <li><a href="#visão-geral">Visão Geral ℹ️</a></li>
       <li><a href="#tela-do-dashboard">Tela Inicial 🎮</a></li>
       <li><a href="#business-rules">Funcionalidades ⚙️</a></li>
+      <li><a href="#logic-js">Lógica do JavaScript🧠<a/></li>
       <li><a href="#funcionamento-dos-filtros">Instruções de Uso 🛠️</a></li>
       <li><a href="#instruções-de-inicialização-do-projeto">Instruções de Inicialização do Projeto 🚀</a></li>
       <li><a href="#tecnologias-utilizadas">Tecnologias Utilizadas 💻</a></li>
